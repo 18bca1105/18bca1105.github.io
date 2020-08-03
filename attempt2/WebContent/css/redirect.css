@@ -1,0 +1,38 @@
+.image{
+	 position: absolute; 
+        height: 250px;
+        width:50%; 
+       
+        
+        right:250px; top:0px
+}
+
+.whole{
+	 position: absolute; 
+        height: 900px;
+        width:99%; 
+        
+         background-color:#f1f1f1;
+        
+.text{
+border: 1px solid #400040;
+   bottom:10px;     
+}
+
+img {
+  opacity: 0.5;
+}
+
+
+
+.timer{
+	
+	position: absolute; 
+	height: 100px;
+        width:50%; 
+        
+        bottom:10px;
+	
+      
+	
+}
